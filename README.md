@@ -18,6 +18,9 @@ This repository contains **Challenges** spanning the core pillars of CTF competi
 
 | Category   | Challenge Name         | Difficulty   |
 |------------|------------------------|--------------|
+| Misc       | Don                    | 🟡 Medium    |
+| Reverse    | Mario                  | ‼️ Hard      |
+| Design     | Design                 | ‼️ Very Hard |
 | Crypto     | PolyPrimes             | ‼️ Hard      |
 | Forensics  | Bald Boy               | 🟡 Medium    |
 | Misc       | IdentiTy Parts of QR   | 🟡 Medium    |
